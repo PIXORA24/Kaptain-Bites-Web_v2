@@ -1,0 +1,8 @@
+﻿.footer-business-disclosure{margin-bottom:10px}
+.footer-details{display:block}
+.footer-details summary{list-style:none;display:inline-flex;align-items:center;gap:8px;cursor:pointer;font-size:0.9rem;color:rgba(255,255,255,0.5);transition:var(--transition)}
+.footer-details summary::-webkit-details-marker{display:none}
+.footer-details summary:hover{color:var(--gold)}
+.footer-details[open] summary{color:var(--gold)}
+.footer-details__body{display:grid;gap:6px;padding-top:10px;font-size:0.88rem;color:rgba(255,255,255,0.58);line-height:1.5}
+.footer-details__body strong{color:var(--white);font-weight:600}
